@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\bin\Debug\labTasks(Najaf).exe.config
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\bin\Debug\labTasks(Najaf).exe
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\bin\Debug\labTasks(Najaf).pdb
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).csprojAssemblyReference.cache
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks_Najaf_.Form1.resources
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks_Najaf_.Properties.Resources.resources
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).csproj.GenerateResource.cache
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).exe
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).pdb
+C:\Users\user\Desktop\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks_Najaf_.File_Directory.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).csproj.AssemblyReference.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks_Najaf_.File_Directory.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks_Najaf_.Form1.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks_Najaf_.Properties.Resources.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).csproj.GenerateResource.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\obj\Debug\labTasks(Najaf).pdb
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\bin\Debug\labTasks(Najaf).exe.config
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\bin\Debug\labTasks(Najaf).exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\labTasks(Najaf)\labTasks(Najaf)\bin\Debug\labTasks(Najaf).pdb

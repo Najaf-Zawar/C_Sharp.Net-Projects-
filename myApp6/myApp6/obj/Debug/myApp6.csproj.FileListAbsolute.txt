@@ -1,0 +1,10 @@
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\bin\Debug\myApp6.exe.config
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\bin\Debug\myApp6.exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\bin\Debug\myApp6.pdb
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\obj\Debug\myApp6.csproj.AssemblyReference.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\obj\Debug\myApp6.Form1.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\obj\Debug\myApp6.Properties.Resources.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\obj\Debug\myApp6.csproj.GenerateResource.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\obj\Debug\myApp6.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\obj\Debug\myApp6.exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp6\myApp6\obj\Debug\myApp6.pdb

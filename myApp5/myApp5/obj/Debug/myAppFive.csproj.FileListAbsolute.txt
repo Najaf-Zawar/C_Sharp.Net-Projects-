@@ -1,0 +1,11 @@
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\bin\Debug\myApp5.exe.config
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\bin\Debug\myApp5.exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\bin\Debug\myApp5.pdb
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myAppFive.csproj.AssemblyReference.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myApp5.Form1.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myApp5.Properties.Resources.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myAppFive.csproj.GenerateResource.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myAppFive.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myApp5.exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myApp5.pdb
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\myApp5\myApp5\obj\Debug\myApp5.GateTypeInput.resources

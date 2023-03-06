@@ -1,0 +1,10 @@
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\bin\Debug\dataForm.exe.config
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\bin\Debug\dataForm.exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\bin\Debug\dataForm.pdb
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\obj\Debug\dataForm.csproj.AssemblyReference.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\obj\Debug\dataForm.Form1.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\obj\Debug\dataForm.Properties.Resources.resources
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\obj\Debug\dataForm.csproj.GenerateResource.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\obj\Debug\dataForm.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\obj\Debug\dataForm.exe
+E:\UNIVERSITY\Semester  6\Visual Programming\Projects\dataForm\dataForm\obj\Debug\dataForm.pdb

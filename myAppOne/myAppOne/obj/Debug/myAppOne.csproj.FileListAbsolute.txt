@@ -1,0 +1,12 @@
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\bin\Debug\myAppOne.exe.config
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\bin\Debug\myAppOne.exe
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\bin\Debug\myAppOne.pdb
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.Properties.Resources.resources
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.csproj.GenerateResource.cache
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.exe
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.pdb
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.Form1.resources
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.frmCalculator.resources
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.csproj.AssemblyReference.cache
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppOne\myAppOne\obj\Debug\myAppOne.frmCalc.resources

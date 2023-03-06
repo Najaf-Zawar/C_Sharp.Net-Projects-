@@ -1,0 +1,11 @@
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\bin\Debug\myAppTwo.exe.config
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\bin\Debug\myAppTwo.exe
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\bin\Debug\myAppTwo.pdb
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.csproj.AssemblyReference.cache
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.Form1.resources
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.Properties.Resources.resources
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.csproj.GenerateResource.cache
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.exe
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.pdb
+E:\UNIVERSITY\Semester 6\Visual Programming\Projects\myAppTwo\obj\Debug\myAppTwo.Form2.resources
